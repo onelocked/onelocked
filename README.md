@@ -10,7 +10,7 @@
 
 
   <div style="text-align: left; max-width: 400px;">
-    <p>❄️ Currently learning the <strong>Nix ecosystem</strong>!</p>
+    <p><img src="https://cdn.simpleicons.org/nixos/5277C3" height="16" style="vertical-align: middle;" /> Currently learning the <strong>Nix ecosystem</strong>!</p>
     <p>💻 <strong>NixOS</strong> user, I love tinkering and learning new things</p>
     <p>🎯 My goal is to improve in <strong>Nix</strong> and be useful to the open source community</p>
   </div>
